@@ -1,0 +1,5 @@
+.config
+config.ini
+options_v.ini
+*.yyz
+*.bak
