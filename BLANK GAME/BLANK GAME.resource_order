@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Font1","order":5,"path":"fonts/Font1/Font1.yy",},
+    {"name":"Object1","order":1,"path":"objects/Object1/Object1.yy",},
+    {"name":"Object2","order":2,"path":"objects/Object2/Object2.yy",},
+    {"name":"avancar_campo","order":4,"path":"scripts/avancar_campo/avancar_campo.yy",},
+    {"name":"chatbot_resposta","order":3,"path":"scripts/chatbot_resposta/chatbot_resposta.yy",},
+    {"name":"ovinho","order":6,"path":"sprites/ovinho/ovinho.yy",},
+  ],
+}
