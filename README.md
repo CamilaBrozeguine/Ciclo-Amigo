@@ -1,2 +1,2 @@
-# Projeto de Extensão
+# Ciclo Amigo
 Este projeto propõe o desenvolvimento de uma aplicação móvel baseada no conceito de gamificação para o gerenciamento do ciclo menstrual. Utilizando elementos de gamificação e a estética de pets virtuais (Tamagotchi-style), a ferramenta visa aumentar o engajamento das usuárias no automonitoramento de saúde, transformando dados biológicos em inputs para uma interface interativa e educativa.
